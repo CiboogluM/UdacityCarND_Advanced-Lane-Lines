@@ -19,7 +19,7 @@ The goals / steps of this project are the following:
 * Warp the detected lane boundaries back onto the original image.
 * Output visual display of the lane boundaries and numerical estimation of lane curvature and vehicle position.
 
-Here's a [link to my video result](./project_video_output.mp4)
+Here's a [link to my video result](./test_video_output//project_video_output.mp4)
 
 The images for camera calibration are stored in the folder called `camera_cal`.
 
